@@ -1,3 +1,4 @@
+language: ruby
 script:
   - sekexe/run "`pwd`/travis.sh"
 before_script:
